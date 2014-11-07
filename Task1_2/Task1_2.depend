@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415341751 source:c:\users\grade\desktop\byovchev\task1_2\main.cpp
+	<iostream>
+	<stack>
+	<list>
+
